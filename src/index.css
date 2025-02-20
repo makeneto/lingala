@@ -76,6 +76,7 @@ h2 {
 }
 
 h3 {
+  text-align: center;
   font-size: 2.4rem;
   font-weight: 600;
   margin-bottom: 4rem;
@@ -302,7 +303,6 @@ progress {
   }
 
   h3 {
-    text-align: center;
     font-size: 1.6rem;
   }
 
